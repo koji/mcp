@@ -19,7 +19,7 @@ Add the following config to an MCP client
 }
 ```
 
-- Claude Desktop
+### Claude Desktop
 ![Image](https://github.com/user-attachments/assets/c37dc42f-e34f-4f9b-a1ee-dcccd05e94a9)
 
 

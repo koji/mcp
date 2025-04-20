@@ -7,6 +7,7 @@ pnpm install
 pnpm run build
 ```
 
+Add the following config to an MCP client  
 ```json
 {
   "mcpServers": {
@@ -17,6 +18,10 @@ pnpm run build
   }
 }
 ```
+
+- Claude Desktop
+![Image](https://github.com/user-attachments/assets/c37dc42f-e34f-4f9b-a1ee-dcccd05e94a9)
+
 
 ## debugger
 
